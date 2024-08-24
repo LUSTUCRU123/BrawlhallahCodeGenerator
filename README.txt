@@ -2,7 +2,7 @@ Pour bien utiliser le code il vous faut :
 
 lancer le fichier .py pour générer des codes dans le .txt
 
-ensuite aller sur Brawlhallah dans la boutique et rentrer code : appuyez sur le bord afin que le bot puisse faire ses actions .
+ensuite aller sur Brawlhallah dans la boutique et rentrer code : appuyez sur le bord afin que le bot puisse faire ses actions
 
 Le bot va appuyer sur entrée pour se préparer à écrire donc pas besoin de cliquer sur l'interface de texte.
 
